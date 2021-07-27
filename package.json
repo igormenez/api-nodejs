@@ -1,0 +1,16 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Igor Menezes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
